@@ -8,10 +8,19 @@ A simple and modern GUI-based 2FA code generator built using **PyQt6**, **pyotp*
 - 📋 **Copy OTP** directly to the clipboard.
 - ❌ **Clear secret key** with a single click.
 - ✅ Real-time **status updates** on OTP generation and clipboard actions.
+- 
+## 📥 Download Executable (Windows)
+No need to set up Python! Download the **pre-built `.exe` file**:
+
+👉 **[Download 2FA-CYAN Executable](https://drive.google.com/file/d/1SyLhdgqhqGB9QqMwh8L5Jfcb8NDyMqtq/view?usp=sharing)**
+
+**How to Use:**
+- Download the `.exe` file from the link above.
+- Run the file, and the GUI should open automatically.
+- Enter your 2FA secret key and generate your OTP.
 
 ## 📦 Requirements
 Ensure you have the following Python packages installed:
-
 
 ## 🛠️ How to Run
 git clone https://github.com/YOUR_USERNAME/2FA-CYAN.git
