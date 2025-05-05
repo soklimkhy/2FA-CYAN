@@ -12,7 +12,7 @@ A simple and modern GUI-based 2FA code generator built using **PyQt6**, **pyotp*
 ## 📥 Download Executable (Windows)
 No need to set up Python! Download the **pre-built `.exe` file**:
 
-👉 **[Download 2FA-CYAN Executable](https://drive.google.com/file/d/1SyLhdgqhqGB9QqMwh8L5Jfcb8NDyMqtq/view?usp=sharing)**
+👉 **[Download 2FA-CYAN main.exe](https://drive.google.com/file/d/1SyLhdgqhqGB9QqMwh8L5Jfcb8NDyMqtq/view?usp=sharing)**
 
 **How to Use:**
 - Download the `.exe` file from the link above.
