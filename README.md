@@ -1,4 +1,4 @@
-# 🔐 2FA-CYAN - Two-Factor Authentication Code Generator
+# 🔐 2FA-CYAN - Two-Factor Authentication OTP
 
 A simple and modern GUI-based 2FA code generator built using **PyQt6**, **pyotp**, and **pyperclip**. This application allows users to generate and copy one-time passwords (OTP) based on a secret key.
 
